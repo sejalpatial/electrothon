@@ -1,6 +1,7 @@
 venv/
-__pycache__/
-*.pyc
-*.wav
+dataset/
 audio_input/
-.env
+__pycache__/
+*.wav
+*.h5
+*.pyc
