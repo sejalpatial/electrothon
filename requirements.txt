@@ -1,6 +1,6 @@
 numpy
 librosa
 matplotlib
-tensorflow
+tensorflow-cpu>=2.12,<3.0
 gtts
 openai
